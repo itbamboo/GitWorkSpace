@@ -7,3 +7,5 @@ good bye
 my stupid boss is fool.
 i don't like him.
 Creating a new branch is quick & Simple
+Creating a new branch is quick AND simple.
+
