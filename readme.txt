@@ -3,3 +3,4 @@ Git is a free software.
 This is my first time to learn git.
 end,see you tomorrow.
 good night
+good bye
